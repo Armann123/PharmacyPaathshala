@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="500dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="1dp"
+        android:layout_marginBottom="111dp"
+        android:src="@drawable/pharmlog" />
+
+    <TextView
+        android:id="@+id/phar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="35dp"
+        android:layout_marginBottom="190dp"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:text="      PHARMACY "
+        android:textColor="#3aa8c1"
+        android:textSize="22dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="3dp"
+        android:layout_marginBottom="190dp"
+        android:layout_toRightOf="@id/phar"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:text="PAATHSHALA "
+        android:textColor="#9acd32"
+        android:textSize="22dp" />
+
+</RelativeLayout>
+
+
+

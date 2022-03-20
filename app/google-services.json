@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "947364598559",
+    "project_id": "pharmpdf",
+    "storage_bucket": "pharmpdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947364598559:android:e6bc5b83baf17fc2ac162a",
+        "android_client_info": {
+          "package_name": "com.example.pharmpdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947364598559-hntfooeoolk184h4ct33sc1alavg0ip6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pharmpdf",
+            "certificate_hash": "8b43410bcc41f46ab788cb2769ed17298113851d"
+          }
+        },
+        {
+          "client_id": "947364598559-a82l29l86f2uo8q5oscb1iv5730ob0jp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdYm0ZkwECAADxuA3IB3CBCJ4SsZG7yH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947364598559-a82l29l86f2uo8q5oscb1iv5730ob0jp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
